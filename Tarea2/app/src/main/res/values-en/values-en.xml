@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="action_settings">Settings</string>
+    <string name="idioma">Language Testing</string>
+    <string name="question">Time</string>
+    <string name="Bienvenido">Welcome!</string>
+</resources>

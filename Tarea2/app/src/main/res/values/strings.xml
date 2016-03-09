@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="idioma">Prueba de idioma</string>
+    <string name="question">Tiempo</string>
+    <string name="Bienvenido">Bienvenido!</string>
+</resources>
